@@ -1,5 +1,5 @@
 <!-- <h3 align="center">A person with no special talent but. passionately curious to learn new things</h3> -->
-<p align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=1000&color=FFFFFF&center=true&multiline=true&width=500&height=100&lines=A+person+with+no+special+talent+but;passionately+curious+to+learn+new+things" alt="Typing SVG" /></a></p>
+<p align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1500&pause=800&color=FFFFFF&center=true&multiline=true&width=500&height=100&lines=A+person+with+no+special+talent+but;passionately+curious+to+learn+new+things" alt="Typing SVG" /></a></p>
 
 ## About Me
 - 💼 Machine Learning Engineer

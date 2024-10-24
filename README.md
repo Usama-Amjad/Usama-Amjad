@@ -4,7 +4,7 @@
 ## About Me
 - 💼 AI Engineer
 - ❤️ Love working with AI models
-- ✅ Learning Tensorflow, building fun projects, and ton of more stuffs
+- ✅ Building fun projects, and ton of more stuffs
 - 📫 Reach me at usamamjad430@gmail.com
 - 🎯 My [Portfolio](https://usamamjad.vercel.app/)
 - 🤏 Fun little code at 🔗[LeetCode](https://leetcode.com/Usama-Amjad/)
